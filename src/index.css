@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #0a0e1a;
+  color: #c9d1e0;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+/* Add any other global styles here */
